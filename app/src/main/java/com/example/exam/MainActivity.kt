@@ -46,5 +46,6 @@ fun PresentationCard() {
         Spacer(modifier = Modifier.height(16.dp))
         Text(text = "Sell Cruz", fontSize = 24.sp)
         Text(text = "correo@gmail.com", fontSize = 16.sp)
+        Text(text = "9789710666", fontSize = 16.sp)
     }
 }
